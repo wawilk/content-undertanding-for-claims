@@ -10,3 +10,16 @@
 - ✅ CU has built-in mechanism to logically split the  the document (or pages) from the bundle based on your defined document types.
 - ✅ You can define a schema for each document type detailing which fields you want to extract.  
 - ✅ For each field in the schema, you specify if you want the value extracted using OCR or if you want CU to use an LLM to generate the value based on some criteria you supply.  
+
+
+### Note: 
+This repo covers only one use case using one modality that Content Understnding covers. It has many additional planned features, multiple modalities and full integration into the AI Foundry Portal all expected over the coming months.
+
+Azure AI Content Understanding service is updated on an ongoing basis. Bookmark this page:  
+https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/whats-new    
+to stay up to date with release notes, feature enhancements, and our newest documentation.
+
+### Resources
+https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/
+
+
