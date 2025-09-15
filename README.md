@@ -4,7 +4,7 @@
 ### The challenges:
 1. ✅ The first is to split the documents out of the bundle.  
 2. ✅ Then determine the document type of each document in the bundle.  
-1. ✅ Extract the required fields from each document based on its type.  
+1. ✅ Finally extract the required fields from each document based on its type.  
 
 ### How Content Understanding (CU) solves these challenges
 - ✅ CU has built-in mechanism to logically split the  the document (or pages) from the bundle based on your defined document types.
