@@ -20,7 +20,10 @@ https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/whats-
 to stay up to date with release notes, feature enhancements, and our newest documentation.
 
 ### Resources
+Azure Samples
 https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/
+
+Azure Content Understanding Repo
 https://github.com/Azure-Samples/azure-ai-content-understanding-python  
 
 
