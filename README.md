@@ -21,5 +21,7 @@ to stay up to date with release notes, feature enhancements, and our newest docu
 
 ### Resources
 https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/
+https://github.com/Azure-Samples/azure-ai-content-understanding-python  
+
 
 
