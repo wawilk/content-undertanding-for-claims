@@ -7,6 +7,6 @@
 1. ✅ Extract the required fields from each document based on its type.  
 
 ### How Content Understanding (CU) solves these challenges
-- ✅ CU has built-in mechaanism to logically split the  the document (or pages) from the bundle based on your defined document types.
-- ✅ You can define a schema for each document type detailing what fields you want to extract.  
-- ✅ For each field in the schema you speccify you simply want the value extracted or if you want CU to use an LLM to generate the value based on some criteria you specify.  
+- ✅ CU has built-in mechanism to logically split the  the document (or pages) from the bundle based on your defined document types.
+- ✅ You can define a schema for each document type detailing which fields you want to extract.  
+- ✅ For each field in the schema, you specify if you want the value extracted using OCR or if you want CU to use an LLM to generate the value based on some criteria you supply.  
