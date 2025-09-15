@@ -1,1 +1,1 @@
-# content-undertanding-for-claims
+# content-understanding-for-claims
